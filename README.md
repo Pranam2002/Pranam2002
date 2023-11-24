@@ -8,9 +8,12 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pranam2002&show_icons=true&theme=radical"></p>
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranam2002&show_icons=true"
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranam2002&show_icons=true">
 </p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranam2002&bg_color=1c1c1c&color=8f66ff&line=fb185c&point=f9db15&area=true&hide_border=true">
+</p>
 
 <!--
 **Pranam2002/Pranam2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,4 +28,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 🏆 Github Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Pranam2002&theme=radical">
+</p>
+
 -->
