@@ -15,7 +15,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranam2002&bg_color=1c1c1c&color=8f66ff&line=fb185c&point=f9db15&area=true&hide_border=true">
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=Pranam2002&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Pranam2002&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 <!--
 **Pranam2002/Pranam2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
