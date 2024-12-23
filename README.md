@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🚀 About Me
-🎓 I am Pranam Rohatgi, a Full Stack Web Developer and Machine Learning Enthusiast. I am also Pursuing my Bachelor in Computer Science & Engineering with specialization in Artificial Intelligence & Machine Learning and will graduate in mid-2025.
+🎓 I am Pranam Rohatgi, a Machine Learning Enthusiast. I am also Pursuing my Bachelor in Computer Science & Engineering with specialization in Artificial Intelligence & Machine Learning and will graduate in mid-2025.
 
 <br>
 
