@@ -7,10 +7,12 @@
 
 Natural Language Processing (NLP):
 Built a Multilingual Language Translation System supporting translations between English, Hindi, French, Spanish, and German.
+
 Fine-tuned BERT for Named Entity Recognition (NER) to extract entities from resumes during my internship at Tally Solutions Pvt Ltd.
 
 Image Recognition:
 Developed a Handwritten Digit Recognition model using MNIST.
+
 Built an Automatic License Plate Recognition (ALPR) system leveraging deep learning and computer vision techniques.
 
 
