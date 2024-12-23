@@ -8,14 +8,18 @@
 Natural Language Processing (NLP):
 Built a Multilingual Language Translation System supporting translations between English, Hindi, French, Spanish, and German.
 Fine-tuned BERT for Named Entity Recognition (NER) to extract entities from resumes during my internship at Tally Solutions Pvt Ltd.
+
 Image Recognition:
 Developed a Handwritten Digit Recognition model using MNIST.
 Built an Automatic License Plate Recognition (ALPR) system leveraging deep learning and computer vision techniques.
+
+
 🌟 Technical Expertise:
 
 Programming Languages: Python, Java
 Databases: SQL, MongoDB
 Cloud Computing: AWS Certified Cloud Practitioner
+
 🚀 My Philosophy:
 I believe in the power of technology to transform lives and industries. My projects reflect my curiosity, creativity, and commitment to making impactful contributions in the fields of AI and ML.
 
