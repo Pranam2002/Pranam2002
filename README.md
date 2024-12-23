@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🚀 About Me
-🎓 I am Pranam Rohatgi, a Machine Learning Enthusiast. I am also Pursuing my Bachelor in Computer Science & Engineering with specialization in Artificial Intelligence & Machine Learning and will graduate in mid-2025. I’m passionate about creating innovative solutions that bridge the gap between technology and real-world challenges.
+🎓 I am Pranam Rohatgi, a Machine Learning Enthusiast. I am pursuing my Bachelor in Computer Science & Engineering with specialization in Artificial Intelligence & Machine Learning and will graduate in mid-2025. I’m passionate about creating innovative solutions that bridge the gap between technology and real-world challenges.
 
 💡 What I Do:
 
