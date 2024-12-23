@@ -1,7 +1,27 @@
 # Hi there 👋
 
 ## 🚀 About Me
-🎓 I am Pranam Rohatgi, a Machine Learning Enthusiast. I am also Pursuing my Bachelor in Computer Science & Engineering with specialization in Artificial Intelligence & Machine Learning and will graduate in mid-2025.
+🎓 I am Pranam Rohatgi, a Machine Learning Enthusiast. I am also Pursuing my Bachelor in Computer Science & Engineering with specialization in Artificial Intelligence & Machine Learning and will graduate in mid-2025. I’m passionate about creating innovative solutions that bridge the gap between technology and real-world challenges.
+
+💡 What I Do:
+
+Natural Language Processing (NLP):
+Built a Multilingual Language Translation System supporting translations between English, Hindi, French, Spanish, and German.
+Fine-tuned BERT for Named Entity Recognition (NER) to extract entities from resumes during my internship at Tally Solutions Pvt Ltd.
+Image Recognition:
+Developed a Handwritten Digit Recognition model using MNIST.
+Built an Automatic License Plate Recognition (ALPR) system leveraging deep learning and computer vision techniques.
+🌟 Technical Expertise:
+
+Programming Languages: Python, Java
+Databases: SQL, MongoDB
+Cloud Computing: AWS Certified Cloud Practitioner
+🚀 My Philosophy:
+I believe in the power of technology to transform lives and industries. My projects reflect my curiosity, creativity, and commitment to making impactful contributions in the fields of AI and ML.
+
+🌱 When I’m not coding, I enjoy exploring advancements in AI, brainstorming project ideas, and sharing knowledge with the tech community.
+
+Let’s connect, collaborate, and build something extraordinary together! 🌍✨
 
 <br>
 
