@@ -12,7 +12,7 @@ Built a Multilingual Language Translation System supporting translations between
 Fine-tuned BERT for Named Entity Recognition (NER) to extract entities from resumes during my internship at Tally Solutions Pvt Ltd.
 
 
-Image Recognition:
+Computer Vision:
 
 Developed a Handwritten Digit Recognition model using MNIST dataset.
 
