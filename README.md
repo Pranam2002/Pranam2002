@@ -14,14 +14,14 @@ Fine-tuned BERT for Named Entity Recognition (NER) to extract entities from resu
 
 Image Recognition:
 
-Developed a Handwritten Digit Recognition model using MNIST.
+Developed a Handwritten Digit Recognition model using MNIST dataset.
 
-Built an Automatic License Plate Recognition (ALPR) system leveraging deep learning and computer vision techniques.
+Built an Automatic License Plate Recognition(ALPR)/Automatic Number Plate Recognition (ANPR) system leveraging deep learning and computer vision techniques.
 
 
 🌟 Technical Expertise:
 
-Programming Languages: Python, Java
+Programming Languages: Python, Java, C, C++
 Databases: SQL, MongoDB
 Cloud Computing: AWS Certified Cloud Practitioner
 
