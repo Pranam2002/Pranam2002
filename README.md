@@ -3,27 +3,28 @@
 ## 🚀 About Me
 🎓 I am Pranam Rohatgi, a Machine Learning Enthusiast. I am pursuing my Bachelor in Computer Science & Engineering with specialization in Artificial Intelligence & Machine Learning and will graduate in mid-2025. I’m passionate about creating innovative solutions that bridge the gap between technology and real-world challenges.
 
-💡 What I Do:
+🎓 Final Year B.Tech Student @ VIT Chennai  
+🧠 Specialization: Artificial Intelligence & Machine Learning  
+📍 Passionate about NLP, Deep Learning, and Scalable AI Systems
 
-Natural Language Processing (NLP):
+---
 
-Built a Multilingual Language Translation System supporting translations between English, Hindi, French, Spanish, and German.
+## 🔧 What I Do
+- 🧾 Built a transformer-based Book Summarizer using RAG (FAISS + BART)
+- 🤖 Developed a Resume Parsing system using BERT-based NER
+- 🚗 Trained YOLOv8 for Automatic License Plate Recognition
+- 🌍 Created a multilingual translator with MarianMT & BERTScore
 
-Fine-tuned BERT for Named Entity Recognition (NER) to extract entities from resumes during my internship at Tally Solutions Pvt Ltd.
+---
 
+## 💻 Technical Expertise
 
-Computer Vision:
+**Languages**: Python, Java, C, C++, SQL  
+**ML Frameworks**: PyTorch, Hugging Face, TensorFlow, Keras  
+**Tools & Platforms**: AWS, Jupyter, GitHub, VS Code, Linux  
+**Areas of Focus**: NLP | Semantic Search | Computer Vision | Transformers  
 
-Developed a Handwritten Digit Recognition model using MNIST dataset.
-
-Built an Automatic License Plate Recognition(ALPR)/Automatic Number Plate Recognition (ANPR) system leveraging deep learning and computer vision techniques.
-
-
-🌟 Technical Expertise:
-
-Programming Languages: Python, Java, C, C++
-Databases: SQL, MongoDB
-Cloud Computing: AWS Certified Cloud Practitioner
+---
 
 🚀 My Philosophy:
 I believe in the power of technology to transform lives and industries. My projects reflect my curiosity, creativity, and commitment to making impactful contributions in the fields of AI and ML.
