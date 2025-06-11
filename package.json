@@ -1,0 +1,12 @@
+{
+  "name": "github-snake-custom",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node snake-generator/index.js"
+  },
+  "dependencies": {
+    "jsdom": "^24.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
