@@ -1,4 +1,6 @@
-# Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pranam+Rohatgi!;" />
+</h1>
 
 ## 🚀 About Me
 🎓 Final Year B.Tech Student @ VIT Chennai  
@@ -47,10 +49,9 @@ Let’s connect, collaborate, and build something extraordinary together! 🌍�
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranam2002&show_icons=true">
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranam2002&bg_color=1c1c1c&color=8f66ff&line=fb185c&point=f9db15&area=true&hide_border=true">
-</p>
-
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
 
 <!--
 **Pranam2002/Pranam2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
