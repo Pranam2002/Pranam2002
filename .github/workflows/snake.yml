@@ -1,18 +1,19 @@
-name: Custom Snake Generator
+name: Snake Generator
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # daily
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # every day at midnight UTC
+  workflow_dispatch:      # allows manual run from GitHub
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
@@ -20,11 +21,11 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run the Snake generator
-        run: node snake-generator/index.js
+      - name: Run snake generator
+        run: npm start
 
-      - name: Push animation to output branch
+      - name: Push generated file to repo
         uses: EndBug/add-and-commit@v9
         with:
-          message: '🧠 Auto-update snake animation'
-          add: 'dist/github-snake.svg'
+          message: "Auto-update: snake generated 🐍"
+          add: "dist/github-snake.svg"
