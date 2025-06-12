@@ -46,7 +46,7 @@ Let’s connect, collaborate, and build something extraordinary together! 🌍�
 
 
 <details open align="center">
-  <summary>📈 Some Stats</summary>
+  <summary>Stats</summary>
   <br>
  
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pranam2002&show_icons=true&theme=algolia"></p>
