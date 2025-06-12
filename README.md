@@ -43,11 +43,38 @@ Let’s connect, collaborate, and build something extraordinary together! 🌍�
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pranam2002&show_icons=true&theme=radical"></p>
+
+
+<details open align="center">
+  <summary>📈 Some Stats</summary>
+  <br>
+ 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pranam2002&show_icons=true&theme=algolia"></p>
 <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranam2002&show_icons=true">
 </p>
+
+<p align="center">
+<div align="center">
+ <a href="https://github.com/SpandanM110"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranam2002&theme=algolia" width="100%" /> </br></br>
+
+<!--
+<img src="https://github-profile-trophy.vercel.app/?username=Pranam2002&theme=algolia"/>
+-->
+     
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranam2002&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranam2002&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranam2002&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+</br></br>
+ </a>
+
+
+ <div align="center">
+</p >
+
+</details>
 
 
 <h3 align="center">
