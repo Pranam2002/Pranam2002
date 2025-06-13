@@ -1,31 +1,31 @@
-name: Snake Generator
+# GitHub Action — generates/updates an animated SVG each day
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight UTC
-  workflow_dispatch:      # allows manual run from GitHub
+    # every midnight UTC – adjust if you prefer another cadence
+    - cron: '0 0 * * *'
+  workflow_dispatch:   # lets you run it manually from the Actions tab
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      # 1) Pull the action that builds the animation
+      - uses: Platane/snk@v3
         with:
-          node-version: 20
+          github_user_name: ${{ github.repository_owner }}
 
-      - name: Install dependencies
-        run: npm install
+          # One line per file you want the action to write into /dist
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark   # dark‑mode palette
 
-      - name: Run snake generator
-        run: npm start
-
-      - name: Push generated file to repo
-        uses: EndBug/add-and-commit@v9
+      # 2) Push the freshly‑generated assets back to the repo (output branch keeps main clean)
+      - name: Commit & push
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          message: "Auto-update: snake generated 🐍"
-          add: "dist/github-snake.svg"
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
