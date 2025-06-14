@@ -106,7 +106,8 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Pranam2002&theme=radical">
 </p>
+Streak
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranam2002" alt="Pranam2002" /></p>
 
 [![](https://visitcount.itsvg.in/api?id=Pranam2002&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
 -->
