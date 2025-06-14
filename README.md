@@ -17,12 +17,22 @@
 
 ---
 
-## 💻 Technical Expertise
+```js
+import SoftwareDeveloper from 'Pranam2002';
 
-**Languages**: Python, Java, C, C++, SQL  
-**ML Frameworks**: PyTorch, Hugging Face, TensorFlow, Keras  
-**Tools & Platforms**: AWS, Jupyter, GitHub, VS Code, Linux  
-**Areas of Focus**: NLP | Semantic Search | Computer Vision | Transformers  
+class Skills extends SoftwareDeveloper {
+  languages  = ['Python', 'Java', 'C', 'C++', 'JavaScript', 'SQL'];
+  Data Analytics & Visualization = ['Pandas', 'NumPy', 'Exploratory Data Analysis (EDA)', 'Matplotlib', 'Statistical Analysis', 'Seaborn', 'Power BI', 'Tableau', 'Excel'];
+  Natural Language Processing = ['Hugging Face Transformers', 'BERT', 'MarianMT', 'Sentence Transformers', 'NER', 'RAG (Retrieval-Augmented Generation)', 'Token Classification', 'Prompt Engineering', 'spaCy', 'NLTK', 'BERTScore'];
+  Machine Learning & Deep Learning = ['PyTorch', 'TensorFlow', 'Keras', 'scikit-learn', 'CNNs', 'Transfer Learning', 'YOLOv8', 'Tesseract OCR', 'Model Evaluation & Optimization'];
+  Data Engineering & Processing = ['PyPDF2', 'SentencePiece', 'PDF/Document Parsing', 'Data Annotation', 'Preprocessing Pipelines', 'Custom Tokenization', 'Embedding Generation'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['React', 'Flask', 'FastAPI', 'Bootstrap'];
+  Tools & Platforms = ['Jupyter Notebook', 'Canva', 'Figma'];
+  Cloud & DevOps = ['AWS (Certified Cloud Practitioner)', 'GitHub Actions', 'Git', 'Linux', 'VS Code'];
+  Soft Skills = ['Analytical Thinking', 'Problem Solving', 'Team Collaboration', 'Communication', 'Agile Development', 'Rapid Prototyping'];
+}
+```
 
 ---
 
