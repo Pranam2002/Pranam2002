@@ -67,7 +67,7 @@ Let’s connect, collaborate, and build something extraordinary together! 🌍�
 
 <p align="center">
 <div align="center">
- <a href="https://github.com/SpandanM110"> 
+ <a href="https://github.com/Pranam2002"> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranam2002&theme=algolia" width="100%" /> </br></br>
 
 <!--
