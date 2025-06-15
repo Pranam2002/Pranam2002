@@ -86,11 +86,7 @@ Let’s connect, collaborate, and build something extraordinary together! 🌍�
 
 </details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Pranam2002/Pranam2002/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranam2002/Pranam2002/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Pranam2002/Pranam2002/output/github-snake.svg" />
-</picture>
+[![GitHub Pacman Game](https://github.com/Pranam2002/Pacman/raw/main/demo.gif)](https://github.com/Pranam2002/Pacman)
 
 
 
