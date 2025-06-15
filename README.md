@@ -62,7 +62,7 @@ Let’s connect, collaborate, and build something extraordinary together! 🌍�
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pranam2002&show_icons=true&theme=algolia"></p>
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranam2002&show_icons=true&theme=algolia">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranam2002&show_icons=true&theme=algolia&langs_count=10&count_private=true&layout=compact">
 </p>
 
 <p align="center">
