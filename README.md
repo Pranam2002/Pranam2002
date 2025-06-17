@@ -68,7 +68,7 @@ Let’s connect, collaborate, and build something extraordinary together! 🌍�
 <p align="center">
 <div align="center">
  <a href="https://github.com/Pranam2002"> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranam2002&theme=algolia" width="100%" /> </br></br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranam2002&theme=algolia&count_private=true" width="100%" /> </br></br>
 
 <a href="https://github.com/Pranam2002"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranam2002&show_icons=true&count_private=true&theme=algolia&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width="80%" /> </br></br>
@@ -77,9 +77,9 @@ Let’s connect, collaborate, and build something extraordinary together! 🌍�
 <img src="https://github-profile-trophy.vercel.app/?username=Pranam2002&theme=algolia"/>
 -->
      
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranam2002&theme=algolia" width="31%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranam2002&theme=algolia" width="31%" align="right" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranam2002&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranam2002&theme=algolia&count_private=true" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranam2002&theme=algolia&count_private=true" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranam2002&theme=algolia&count_private=true" width="31%" align="center" title="🦉 Night owl" />  
 </br></br>
  </a>
 
